@@ -1,0 +1,21 @@
+{
+	"name": "adls",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "adls_emp_sal_condition",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "metadat",
+				"folderPath": "table_names",
+				"fileSystem": "sql-container"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

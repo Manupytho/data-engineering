@@ -1,0 +1,9 @@
+{
+	"name": "sqlserver-to-adls",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12041978-229f-4434-b4a5-fdacac9749a6",
+		"tenantId": "2173fbfe-bf3c-4fae-ae1b-0ca6285e9fbb"
+	}
+}
