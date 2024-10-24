@@ -1,9 +1,0 @@
-{
-	"name": "factory-adf-build",
-	"location": "centralus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "7c298095-dad4-49e2-b676-08f791219c8c",
-		"tenantId": "2173fbfe-bf3c-4fae-ae1b-0ca6285e9fbb"
-	}
-}
